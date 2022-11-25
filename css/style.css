@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgrey;
+    font-size: 15px;
+}
+
+.container{
+    background-color: white; 
+    height: 450px; 
+    width: 250px; 
+    margin: auto; 
+    border-radius: 15px; 
+    margin-top:90px;
+}
+
+.attribution{
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a {
+ color: hsl(228, 45%, 44%); 
+
+}
+
+div h3{
+    text-align: center; 
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+div p{
+    text-align: center; 
+    padding: 15px 10px;
+    color: grey;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    
+}
+.barcode{
+    margin:10px;
+    padding-top: 10px;
+}
+
+.barcode img{
+    width: 230px;
+     height: 250px; 
+     border-radius: 10px;
+}
+
+
+   
